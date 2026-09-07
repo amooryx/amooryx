@@ -23,7 +23,7 @@
 
     <!-- One clip per line; the rect width animates to reveal characters. -->
     <clipPath id="c1"><rect x="42" y="96"  width="0" height="26">
-      <animate attributeName="width" values="0;0;86;86;0;0"
+      <animate attributeName="width" values="0;0;87;87;0;0"
         keyTimes="0;0.071;0.143;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="c2"><rect x="42" y="130" width="0" height="26">
@@ -31,19 +31,19 @@
         keyTimes="0;0.157;0.229;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="c3"><rect x="42" y="176" width="0" height="26">
-      <animate attributeName="width" values="0;0;200;200;0;0"
+      <animate attributeName="width" values="0;0;138;138;0;0"
         keyTimes="0;0.243;0.314;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="c4"><rect x="42" y="210" width="0" height="26">
-      <animate attributeName="width" values="0;0;214;214;0;0"
+      <animate attributeName="width" values="0;0;587;587;0;0"
         keyTimes="0;0.329;0.400;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="c5"><rect x="42" y="256" width="0" height="26">
-      <animate attributeName="width" values="0;0;376;376;0;0"
+      <animate attributeName="width" values="0;0;260;260;0;0"
         keyTimes="0;0.414;0.486;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="c6"><rect x="42" y="290" width="0" height="26">
-      <animate attributeName="width" values="0;0;450;450;0;0"
+      <animate attributeName="width" values="0;0;363;363;0;0"
         keyTimes="0;0.500;0.571;0.893;0.929;1" dur="14s" repeatCount="indefinite"/>
     </rect></clipPath>
   </defs>
@@ -78,22 +78,22 @@
       <text x="42" y="195" fill="#00ff41" filter="url(#soft)">$ cat ./certs</text>
     </g>
     <g clip-path="url(#c4)">
-      <text x="42" y="229" fill="#c9d1d9">OSCP+ · CRTP · eWPTX</text>
+      <text x="42" y="229" fill="#c9d1d9">OSCP+ · OSCP · CRTP · eWPTX · eCPPT · eCDFP · eCIR · eJPT</text>
     </g>
 
     <g clip-path="url(#c5)">
       <text x="42" y="275" fill="#00ff41" filter="url(#soft)">$ ./reconpal scan --scope</text>
     </g>
     <g clip-path="url(#c6)">
-      <text x="42" y="309" fill="#7ee787">[+] 64 tools armed · surface mapped</text>
+      <text x="42" y="309" fill="#7ee787">[+] 60 tools armed · surface mapped</text>
     </g>
 
     <!-- cursor: parks after the last line, blinks throughout -->
-    <rect x="500" y="292" width="10" height="20" fill="#00ff41">
+    <rect x="405" y="292" width="10" height="20" fill="#00ff41">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1"
                dur="1.05s" repeatCount="indefinite"/>
       <animate attributeName="x"
-               values="52;52;96;96;466;466;500;500;52"
+               values="52;52;129;466;302;302;405;405;52"
                keyTimes="0;0.071;0.143;0.329;0.486;0.500;0.571;0.929;1"
                dur="14s" repeatCount="indefinite"/>
       <animate attributeName="y"

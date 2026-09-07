@@ -4,12 +4,19 @@
 
 <br>
 
-[![OSCP+](https://img.shields.io/badge/OSCP%2B-000000?style=for-the-badge&logo=offensive-security&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
-[![CRTP](https://img.shields.io/badge/CRTP-000000?style=for-the-badge&logo=windows&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
-[![eWPTX](https://img.shields.io/badge/eWPTX-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+[![OSCP+](https://img.shields.io/badge/OffSec-OSCP%2B-05080d?style=for-the-badge&labelColor=1b7f3b)](https://www.credential.net/6f84d0b0-10db-48e1-9a00-3a47ab5e2df7#acc.qYNxeKVf)
+[![OSCP](https://img.shields.io/badge/OffSec-OSCP-05080d?style=for-the-badge&labelColor=1b7f3b)](https://www.credential.net/6042a909-1454-4c66-a9bc-d4f9082d3c76#acc.mqVgnslB)
+[![CRTP](https://img.shields.io/badge/Altered%20Security-CRTP-05080d?style=for-the-badge&labelColor=1b7f3b)](https://www.credential.net/dc44ac07-6ace-4d25-bebc-42db4588c801#acc.16iaczMF)
 
-[![Verify credentials](https://img.shields.io/badge/verify_credentials-05080d?style=for-the-badge&logo=verifiedauthor&logoColor=00ff41&labelColor=05080d)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
-[![Website](https://img.shields.io/badge/omareldemery.com-05080d?style=for-the-badge&logo=firefox&logoColor=00ff41&labelColor=05080d)](https://omareldemery.com)
+[![eWPTX](https://img.shields.io/badge/INE-eWPTX-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/17903ce7-2392-46a8-8f0e-848fd4c4bd38#acc.hBix5FXy)
+[![eCPPT](https://img.shields.io/badge/INE-eCPPT-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/8dc3f024-2243-4879-bed0-a78369221296#acc.h3a2yGD9)
+[![eJPT](https://img.shields.io/badge/INE-eJPT-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/5ddddea3-af3f-4521-a47c-a9ba815e0da5#acc.j2OHCrkD)
+
+[![eCDFP](https://img.shields.io/badge/INE-eCDFP-05080d?style=for-the-badge&labelColor=6b4c9a)](https://www.credential.net/da4afe67-bbd7-4f53-9f5c-520f12a10849#acc.aO5pxtuT)
+[![eCIR](https://img.shields.io/badge/INE-eCIR-05080d?style=for-the-badge&labelColor=6b4c9a)](https://www.credential.net/fb3264d2-ded6-44fc-89f8-d57f816ebef0#acc.bFvBR3DQ)
+
+[![Verify all credentials](https://img.shields.io/badge/%E2%9C%93%20verify%20all%20credentials-05080d?style=for-the-badge&labelColor=05080d)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+[![Website](https://img.shields.io/badge/omareldemery.com-05080d?style=for-the-badge&labelColor=05080d)](https://omareldemery.com)
 
 </div>
 
@@ -23,8 +30,11 @@ $ cat /etc/profile.d/omar.sh
 handle:      amooryx
 role:        Offensive Security Engineer · Penetration Tester
 focus:       [ web appsec, active directory, cloud, memory forensics ]
-certs:       [ OSCP+, CRTP, eWPTX ]
-verify:      credential.net/profile/omarkhalidalimohamedahmed701437
+certs:
+  offsec:    [ OSCP+, OSCP ]
+  altered:   [ CRTP ]
+  ine:       [ eWPTX, eCPPT, eJPT, eCDFP, eCIR ]
+verify:      every badge above links to its own verifiable credential
 research:    MCP server attack surface · masqueraded process detection
 disclosure:  coordinated · authorised engagements only
 ```
