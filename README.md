@@ -101,6 +101,34 @@ I break things on purpose, with permission, and then write the tool that finds i
 | [pass-spray](https://github.com/amooryx/pass-spray) | Rate-aware password spraying |
 | [privesc-mapper](https://github.com/amooryx/privesc-mapper) · [lateral-trace](https://github.com/amooryx/lateral-trace) | Escalation and movement paths |
 | [smb-audit](https://github.com/amooryx/smb-audit) | SMB share and signing review |
+| [asrep-roast](https://github.com/amooryx/asrep-roast) · [spn-scanner](https://github.com/amooryx/spn-scanner) | AS-REP roasting and SPN discovery |
+| [delegation-hunter](https://github.com/amooryx/delegation-hunter) · [dcsync-check](https://github.com/amooryx/dcsync-check) | Delegation and replication-rights abuse |
+| [adcs-audit](https://github.com/amooryx/adcs-audit) · [shadow-cred](https://github.com/amooryx/shadow-cred) | AD CS templates and Shadow Credentials |
+| [trust-mapper](https://github.com/amooryx/trust-mapper) · [ticket-forge](https://github.com/amooryx/ticket-forge) | Trust enumeration and ticket analysis |
+
+</details>
+
+<details>
+<summary><b>Credential Access</b></summary>
+<br>
+
+| Tool | What it does |
+|---|---|
+| [ntds-parse](https://github.com/amooryx/ntds-parse) · [hash-ident](https://github.com/amooryx/hash-ident) | NTDS hash parsing and hash-type identification |
+| [dpapi-decrypt](https://github.com/amooryx/dpapi-decrypt) · [cred-vault](https://github.com/amooryx/cred-vault) | DPAPI blob and Credential Vault review |
+| [browser-creds](https://github.com/amooryx/browser-creds) · [keepass-audit](https://github.com/amooryx/keepass-audit) | Browser and KeePass credential exposure |
+
+</details>
+
+<details>
+<summary><b>Lateral Movement</b></summary>
+<br>
+
+| Tool | What it does |
+|---|---|
+| [wmi-exec](https://github.com/amooryx/wmi-exec) · [winrm-exec](https://github.com/amooryx/winrm-exec) | WMI and WinRM remote-execution reachability |
+| [dcom-exec](https://github.com/amooryx/dcom-exec) · [smb-exec](https://github.com/amooryx/smb-exec) | DCOM and SMB execution surfaces |
+| [rdp-enum](https://github.com/amooryx/rdp-enum) · [ssh-pivot](https://github.com/amooryx/ssh-pivot) | RDP enumeration and SSH pivot planning |
 
 </details>
 
@@ -131,6 +159,44 @@ I break things on purpose, with permission, and then write the tool that finds i
 | [persistence-kit](https://github.com/amooryx/persistence-kit) · [edr-map](https://github.com/amooryx/edr-map) | Persistence and defensive-control mapping |
 | [loot-harvest](https://github.com/amooryx/loot-harvest) | Credential and artefact collection |
 | [Rev_Shell](https://github.com/amooryx/Rev_Shell) | Reverse shell generation and handling |
+| [macro-gen](https://github.com/amooryx/macro-gen) · [hta-builder](https://github.com/amooryx/hta-builder) | Office macro and HTA initial-access templates |
+| [lnk-forge](https://github.com/amooryx/lnk-forge) · [iso-pack](https://github.com/amooryx/iso-pack) | LNK and ISO/container delivery packaging |
+| [phish-planner](https://github.com/amooryx/phish-planner) | Authorised phishing campaign planning |
+
+</details>
+
+<details>
+<summary><b>Evasion &amp; OPSEC</b></summary>
+<br>
+
+| Tool | What it does |
+|---|---|
+| [amsi-check](https://github.com/amooryx/amsi-check) · [entropy-check](https://github.com/amooryx/entropy-check) | AMSI status and artefact-entropy checks |
+| [sleep-mask](https://github.com/amooryx/sleep-mask) · [opsec-lint](https://github.com/amooryx/opsec-lint) | Beacon timing modelling and OPSEC linting |
+| [script-obfuscator](https://github.com/amooryx/script-obfuscator) · [artifact-tracker](https://github.com/amooryx/artifact-tracker) | Reversible transforms and artefact clean-up |
+
+</details>
+
+<details>
+<summary><b>Exfiltration</b></summary>
+<br>
+
+| Tool | What it does |
+|---|---|
+| [dns-exfil](https://github.com/amooryx/dns-exfil) · [icmp-tunnel](https://github.com/amooryx/icmp-tunnel) | DNS and ICMP covert-channel PoCs |
+| [http-tunnel](https://github.com/amooryx/http-tunnel) · [cloud-exfil](https://github.com/amooryx/cloud-exfil) | HTTP tunnelling and cloud egress paths |
+| [stego-exfil](https://github.com/amooryx/stego-exfil) | Image steganography for DLP testing |
+
+</details>
+
+<details>
+<summary><b>Situational Awareness</b></summary>
+<br>
+
+| Tool | What it does |
+|---|---|
+| [host-recon](https://github.com/amooryx/host-recon) · [av-enum](https://github.com/amooryx/av-enum) | Host collection and AV/EDR enumeration |
+| [token-hunter](https://github.com/amooryx/token-hunter) · [uac-audit](https://github.com/amooryx/uac-audit) | Access-token review and UAC auditing |
 
 </details>
 

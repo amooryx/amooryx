@@ -85,7 +85,7 @@
       <text x="42" y="275" fill="#00ff41" filter="url(#soft)">$ ./reconpal scan --scope</text>
     </g>
     <g clip-path="url(#c6)">
-      <text x="42" y="309" fill="#7ee787">[+] 60 tools armed · surface mapped</text>
+      <text x="42" y="309" fill="#7ee787">[+] 100 tools armed · surface mapped</text>
     </g>
 
     <!-- cursor: parks after the last line, blinks throughout -->
