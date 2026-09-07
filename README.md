@@ -8,9 +8,9 @@
 [![OSCP](https://img.shields.io/badge/OffSec-OSCP-05080d?style=for-the-badge&labelColor=1b7f3b)](https://www.credential.net/6042a909-1454-4c66-a9bc-d4f9082d3c76#acc.mqVgnslB)
 [![CRTP](https://img.shields.io/badge/Altered%20Security-CRTP-05080d?style=for-the-badge&labelColor=1b7f3b)](https://www.credential.net/dc44ac07-6ace-4d25-bebc-42db4588c801#acc.16iaczMF)
 
-[![eWPTX](https://img.shields.io/badge/INE-eWPTX-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/17903ce7-2392-46a8-8f0e-848fd4c4bd38#acc.hBix5FXy)
-[![eCPPT](https://img.shields.io/badge/INE-eCPPT-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/8dc3f024-2243-4879-bed0-a78369221296#acc.h3a2yGD9)
-[![eJPT](https://img.shields.io/badge/INE-eJPT-05080d?style=for-the-badge&labelColor=17607f)](https://www.credential.net/5ddddea3-af3f-4521-a47c-a9ba815e0da5#acc.j2OHCrkD)
+[![eWPTX](https://img.shields.io/badge/INE-eWPTX-05080d?style=for-the-badge&labelColor=b3121b)](https://www.credential.net/17903ce7-2392-46a8-8f0e-848fd4c4bd38#acc.hBix5FXy)
+[![eCPPT](https://img.shields.io/badge/INE-eCPPT-05080d?style=for-the-badge&labelColor=b3121b)](https://www.credential.net/8dc3f024-2243-4879-bed0-a78369221296#acc.h3a2yGD9)
+[![eJPT](https://img.shields.io/badge/INE-eJPT-05080d?style=for-the-badge&labelColor=b3121b)](https://www.credential.net/5ddddea3-af3f-4521-a47c-a9ba815e0da5#acc.j2OHCrkD)
 
 [![eCDFP](https://img.shields.io/badge/INE-eCDFP-05080d?style=for-the-badge&labelColor=6b4c9a)](https://www.credential.net/da4afe67-bbd7-4f53-9f5c-520f12a10849#acc.aO5pxtuT)
 [![eCIR](https://img.shields.io/badge/INE-eCIR-05080d?style=for-the-badge&labelColor=6b4c9a)](https://www.credential.net/fb3264d2-ded6-44fc-89f8-d57f816ebef0#acc.bFvBR3DQ)
@@ -44,6 +44,10 @@ I break things on purpose, with permission, and then write the tool that finds i
 ---
 
 ## `~/arsenal`
+
+<div align="center">
+<img src="./scan.svg" alt="scanning attack surface" width="840">
+</div>
 
 <details open>
 <summary><b>Recon &amp; OSINT</b></summary>
@@ -143,6 +147,10 @@ I break things on purpose, with permission, and then write the tool that finds i
 </details>
 
 ---
+
+<div align="center">
+<img src="./matrix.svg" alt="" width="840">
+</div>
 
 ## `~/research`
 
