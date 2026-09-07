@@ -4,10 +4,12 @@
 
 <br>
 
-[![OSCP+](https://img.shields.io/badge/OSCP%2B-000000?style=for-the-badge&logo=offensive-security&logoColor=00ff41)](https://www.offsec.com/)
-[![CRTP](https://img.shields.io/badge/CRTP-000000?style=for-the-badge&logo=windows&logoColor=00ff41)](https://www.alteredsecurity.com/)
-[![eWPTX](https://img.shields.io/badge/eWPTX-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://security.ine.com/)
-[![Website](https://img.shields.io/badge/omareldemery.com-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://omareldemery.com)
+[![OSCP+](https://img.shields.io/badge/OSCP%2B-000000?style=for-the-badge&logo=offensive-security&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+[![CRTP](https://img.shields.io/badge/CRTP-000000?style=for-the-badge&logo=windows&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+[![eWPTX](https://img.shields.io/badge/eWPTX-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+
+[![Verify credentials](https://img.shields.io/badge/verify_credentials-05080d?style=for-the-badge&logo=verifiedauthor&logoColor=00ff41&labelColor=05080d)](https://www.credential.net/profile/omarkhalidalimohamedahmed701437/wallet)
+[![Website](https://img.shields.io/badge/omareldemery.com-05080d?style=for-the-badge&logo=firefox&logoColor=00ff41&labelColor=05080d)](https://omareldemery.com)
 
 </div>
 
@@ -22,6 +24,7 @@ handle:      amooryx
 role:        Offensive Security Engineer · Penetration Tester
 focus:       [ web appsec, active directory, cloud, memory forensics ]
 certs:       [ OSCP+, CRTP, eWPTX ]
+verify:      credential.net/profile/omarkhalidalimohamedahmed701437
 research:    MCP server attack surface · masqueraded process detection
 disclosure:  coordinated · authorised engagements only
 ```
