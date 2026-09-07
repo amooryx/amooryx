@@ -161,8 +161,8 @@ I break things on purpose, with permission, and then write the tool that finds i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amooryx&show_icons=true&hide_border=true&bg_color=05080d&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&include_all_commits=true" height="165" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amooryx&layout=compact&hide_border=true&bg_color=05080d&title_color=00ff41&text_color=c9d1d9&langs_count=6" height="165" alt="languages">
+<img src="./stats.svg" height="178" alt="GitHub statistics">
+<img src="./arsenal.svg" height="178" alt="Arsenal by category">
 
 <br><br>
 
