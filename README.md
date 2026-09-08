@@ -36,6 +36,8 @@ certs:
   ine:       [ eWPTX, eCPPT, eJPT, eCDFP, eCIR ]
 verify:      every badge above links to its own verifiable credential
 research:    MCP server attack surface · masqueraded process detection
+building:    RedCell — a unified red-team command console for the 100 tools below
+status:      100 tools shipped · building the dashboard that ties them together
 disclosure:  coordinated · authorised engagements only
 ```
 
