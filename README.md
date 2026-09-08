@@ -51,6 +51,11 @@ I break things on purpose, with permission, and then write the tool that finds i
 <img src="./scan.svg" alt="scanning attack surface" width="840">
 </div>
 
+> ### ◆ [RedCell](https://github.com/amooryx/RedCell) — the command console for everything below
+> A native Windows desktop app that puts all 100 tools behind one Apple-clean, engagement-scoped
+> interface: browse, search, scope, launch, and read live output without leaving the dashboard.
+> **[⬇ Download the .exe](https://github.com/amooryx/RedCell/releases/latest)** · [source](https://github.com/amooryx/RedCell)
+
 <details open>
 <summary><b>Recon &amp; OSINT</b></summary>
 <br>
