@@ -47,19 +47,79 @@ I break things on purpose, with permission, and then write the tool that finds i
 
 ## 🛠️ Tech Stack &amp; Skills
 
-### Security &amp; Research
-`Web Application Security` · `Penetration Testing` · `Active Directory` · `Cloud & Container Security` · `Recon & OSINT` · `Memory Forensics` · `MCP Security Research`
+#### Security &amp; Research
+![Web Application Security](https://img.shields.io/badge/Web_AppSec-00ff41?style=for-the-badge&labelColor=05080d)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-ff3b3b?style=for-the-badge&labelColor=05080d)
+![Active Directory](https://img.shields.io/badge/Active_Directory-ffb300?style=for-the-badge&labelColor=05080d)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-4d9fff?style=for-the-badge&labelColor=05080d)
+![Memory Forensics](https://img.shields.io/badge/Memory_Forensics-b96bff?style=for-the-badge&labelColor=05080d)
+![MCP Security Research](https://img.shields.io/badge/MCP_Security_Research-00d4ff?style=for-the-badge&labelColor=05080d)
 
-### Languages
-`Python`
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Red Team &amp; Pentest Tools
+#### Backend &amp; Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&labelColor=05080d)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-2d6ca2?style=flat-square&labelColor=05080d)](https://nmap.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596cd?style=flat-square&labelColor=05080d)](https://www.metasploit.com)
+#### Architecture
+![SOLID](https://img.shields.io/badge/SOLID_Principles-5C2D91?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0D1117?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Published Tools
+#### Cloud, DevOps &amp; Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47B881?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+#### AI &amp; LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Automation &amp; AI-Assisted Development
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### Red Team &amp; Pentest Tools
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&labelColor=05080d)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-2d6ca2?style=for-the-badge&labelColor=05080d)](https://nmap.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&labelColor=05080d)](https://www.metasploit.com)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Published Tools
 [ReconPal](https://github.com/amooryx/ReconPal) · [ProcSentinel](https://github.com/amooryx/ProcSentinel) · [RedCell](https://github.com/amooryx/RedCell)
 
 ---
