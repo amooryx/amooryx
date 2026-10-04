@@ -45,6 +45,25 @@ I break things on purpose, with permission, and then write the tool that finds i
 
 ---
 
+## 🛠️ Tech Stack &amp; Skills
+
+### Security &amp; Research
+`Web Application Security` · `Penetration Testing` · `Active Directory` · `Cloud & Container Security` · `Recon & OSINT` · `Memory Forensics` · `MCP Security Research`
+
+### Languages
+`Python`
+
+### Red Team &amp; Pentest Tools
+
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&labelColor=05080d)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-2d6ca2?style=flat-square&labelColor=05080d)](https://nmap.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596cd?style=flat-square&labelColor=05080d)](https://www.metasploit.com)
+
+### Published Tools
+[ReconPal](https://github.com/amooryx/ReconPal) · [ProcSentinel](https://github.com/amooryx/ProcSentinel) · [RedCell](https://github.com/amooryx/RedCell)
+
+---
+
 ## `~/arsenal`
 
 <div align="center">
