@@ -22,28 +22,7 @@
 
 ---
 
-```console
-$ cat /etc/profile.d/omar.sh
-```
 
-```yaml
-handle:      amooryx
-role:        Offensive Security Engineer · Penetration Tester
-focus:       [ web appsec, active directory, cloud, memory forensics ]
-certs:
-  offsec:    [ OSCP+, OSCP ]
-  altered:   [ CRTP ]
-  ine:       [ eWPTX, eCPPT, eJPT, eCDFP, eCIR ]
-verify:      every badge above links to its own verifiable credential
-research:    MCP server attack surface · masqueraded process detection
-building:    RedCell — a unified red-team command console for the 100 tools below
-status:      100 tools shipped · building the dashboard that ties them together
-disclosure:  coordinated · authorised engagements only
-```
-
-I break things on purpose, with permission, and then write the tool that finds it faster next time. Most of what is below started as something I needed mid-engagement at 2am.
-
----
 
 ## 🛠️ Tech Stack &amp; Skills
 
