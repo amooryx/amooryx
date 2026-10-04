@@ -116,11 +116,76 @@ I break things on purpose, with permission, and then write the tool that finds i
 [![Nmap](https://img.shields.io/badge/Nmap-2d6ca2?style=for-the-badge&labelColor=05080d)](https://nmap.org)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&labelColor=05080d)](https://www.metasploit.com)
 
+Commonly used tools across authorized pentesting and bug bounty workflows:
+
+**Web testing:** [OWASP ZAP](https://www.zaproxy.org/) · [Caido](https://caido.io/) · [ffuf](https://github.com/ffuf/ffuf) · [feroxbuster](https://github.com/epi052/feroxbuster) · [Gobuster](https://github.com/OJ/gobuster) · [dirsearch](https://github.com/maurosoria/dirsearch) · [sqlmap](https://sqlmap.org/) · [Dalfox](https://github.com/hahwul/dalfox) · [Arjun](https://github.com/s0md3v/Arjun) · [Nuclei](https://github.com/projectdiscovery/nuclei) · [Interactsh](https://github.com/projectdiscovery/interactsh) · [WPScan](https://wpscan.com/)
+
+**Recon &amp; discovery:** [Amass](https://github.com/owasp-amass/amass) · [Subfinder](https://github.com/projectdiscovery/subfinder) · [Assetfinder](https://github.com/tomnomnom/assetfinder) · [httpx](https://github.com/projectdiscovery/httpx) · [dnsx](https://github.com/projectdiscovery/dnsx) · [Naabu](https://github.com/projectdiscovery/naabu) · [Katana](https://github.com/projectdiscovery/katana) · [gau](https://github.com/lc/gau) · [waybackurls](https://github.com/tomnomnom/waybackurls) · [Nmap](https://nmap.org/) · [Masscan](https://github.com/robertdavidgraham/masscan)
+
+**Network &amp; traffic analysis:** [Wireshark](https://www.wireshark.org/) · [tcpdump](https://www.tcpdump.org/) · [Netcat](https://nmap.org/ncat/) · [testssl.sh](https://github.com/drwetter/testssl.sh) · [Nikto](https://github.com/sullo/nikto)
+
+**Active Directory &amp; credentials:** [BloodHound](https://github.com/SpecterOps/BloodHound) · [Certipy](https://github.com/ly4k/Certipy) · [NetExec](https://github.com/Pennyw0rth/NetExec) · [Impacket](https://github.com/fortra/impacket) · [Responder](https://github.com/SpiderLabs/Responder) · [Kerbrute](https://github.com/ropnop/kerbrute) · [Rubeus](https://github.com/GhostPack/Rubeus) · [Mimikatz](https://github.com/gentilkiwi/mimikatz) · [Hashcat](https://hashcat.net/hashcat/) · [John the Ripper](https://www.openwall.com/john/) · [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) · [THC Hydra](https://github.com/vanhauser-thc/thc-hydra)
+
+**Cloud &amp; containers:** [Prowler](https://github.com/prowler-cloud/prowler) · [ScoutSuite](https://github.com/nccgroup/ScoutSuite) · [Pacu](https://github.com/RhinoSecurityLabs/pacu) · [kube-hunter](https://github.com/aquasecurity/kube-hunter) · [Trivy](https://github.com/aquasecurity/trivy)
+
 #### Languages
+Primary languages across my public repositories:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Published Tools
-[ReconPal](https://github.com/amooryx/ReconPal) · [ProcSentinel](https://github.com/amooryx/ProcSentinel) · [RedCell](https://github.com/amooryx/RedCell)
+All 100 focused security tools, plus the RedCell operations console:
+
+<details>
+<summary><b>Browse all 101 published repositories</b></summary>
+<br>
+
+**Recon &amp; OSINT**
+
+[ReconPal](https://github.com/amooryx/ReconPal) · [subdomain-storm](https://github.com/amooryx/subdomain-storm) · [cert-recon](https://github.com/amooryx/cert-recon) · [asn-mapper](https://github.com/amooryx/asn-mapper) · [dns-recon](https://github.com/amooryx/dns-recon) · [vhost-scanner](https://github.com/amooryx/vhost-scanner) · [git-recon](https://github.com/amooryx/git-recon) · [meta-extract](https://github.com/amooryx/meta-extract) · [param-mine](https://github.com/amooryx/param-mine) · [email-harvest](https://github.com/amooryx/email-harvest) · [linkedin-recon](https://github.com/amooryx/linkedin-recon) · [stealth-scan](https://github.com/amooryx/stealth-scan) · [snmp-walker](https://github.com/amooryx/snmp-walker) · [vpn-probe](https://github.com/amooryx/vpn-probe)
+
+**Web Application Security**
+
+[jwt-attack-suite](https://github.com/amooryx/jwt-attack-suite) · [oauth-auditor](https://github.com/amooryx/oauth-auditor) · [ssrf-scanner](https://github.com/amooryx/ssrf-scanner) · [ssti-hunter](https://github.com/amooryx/ssti-hunter) · [xxe-injector](https://github.com/amooryx/xxe-injector) · [smuggler](https://github.com/amooryx/smuggler) · [cache-probe](https://github.com/amooryx/cache-probe) · [proto-pollute](https://github.com/amooryx/proto-pollute) · [graphql-attack-mapper](https://github.com/amooryx/graphql-attack-mapper) · [path-traversal](https://github.com/amooryx/path-traversal) · [open-redirect-scanner](https://github.com/amooryx/open-redirect-scanner) · [waf-bypass](https://github.com/amooryx/waf-bypass) · [host-injector](https://github.com/amooryx/host-injector) · [api-fuzz](https://github.com/amooryx/api-fuzz) · [cors-tester](https://github.com/amooryx/cors-tester) · [secret-scanner](https://github.com/amooryx/secret-scanner)
+
+**Active Directory**
+
+[ad-enum](https://github.com/amooryx/ad-enum) · [kerbroast](https://github.com/amooryx/kerbroast) · [acl-abuser](https://github.com/amooryx/acl-abuser) · [ldap-dump](https://github.com/amooryx/ldap-dump) · [dc-checker](https://github.com/amooryx/dc-checker) · [gpo-hunter](https://github.com/amooryx/gpo-hunter) · [pass-spray](https://github.com/amooryx/pass-spray) · [privesc-mapper](https://github.com/amooryx/privesc-mapper) · [lateral-trace](https://github.com/amooryx/lateral-trace) · [smb-audit](https://github.com/amooryx/smb-audit) · [asrep-roast](https://github.com/amooryx/asrep-roast) · [spn-scanner](https://github.com/amooryx/spn-scanner) · [delegation-hunter](https://github.com/amooryx/delegation-hunter) · [dcsync-check](https://github.com/amooryx/dcsync-check) · [adcs-audit](https://github.com/amooryx/adcs-audit) · [shadow-cred](https://github.com/amooryx/shadow-cred) · [trust-mapper](https://github.com/amooryx/trust-mapper) · [ticket-forge](https://github.com/amooryx/ticket-forge)
+
+**Credential Access**
+
+[ntds-parse](https://github.com/amooryx/ntds-parse) · [hash-ident](https://github.com/amooryx/hash-ident) · [dpapi-decrypt](https://github.com/amooryx/dpapi-decrypt) · [cred-vault](https://github.com/amooryx/cred-vault) · [browser-creds](https://github.com/amooryx/browser-creds) · [keepass-audit](https://github.com/amooryx/keepass-audit)
+
+**Lateral Movement**
+
+[wmi-exec](https://github.com/amooryx/wmi-exec) · [winrm-exec](https://github.com/amooryx/winrm-exec) · [dcom-exec](https://github.com/amooryx/dcom-exec) · [smb-exec](https://github.com/amooryx/smb-exec) · [rdp-enum](https://github.com/amooryx/rdp-enum) · [ssh-pivot](https://github.com/amooryx/ssh-pivot)
+
+**Cloud &amp; Container**
+
+[aws-bucket-brute](https://github.com/amooryx/aws-bucket-brute) · [aws-pivot](https://github.com/amooryx/aws-pivot) · [azure-enum](https://github.com/amooryx/azure-enum) · [gcp-probe](https://github.com/amooryx/gcp-probe) · [k8s-audit](https://github.com/amooryx/k8s-audit) · [lambda-abuse](https://github.com/amooryx/lambda-abuse) · [Cloud-Storage-Artifacts](https://github.com/amooryx/Cloud-Storage-Artifacts)
+
+**Red Team &amp; Post-Exploitation**
+
+[RedCell](https://github.com/amooryx/RedCell) · [phantom-c2](https://github.com/amooryx/phantom-c2) · [c2-profile-gen](https://github.com/amooryx/c2-profile-gen) · [redirector](https://github.com/amooryx/redirector) · [dns-beacon](https://github.com/amooryx/dns-beacon) · [shellcode-gen](https://github.com/amooryx/shellcode-gen) · [process-inject](https://github.com/amooryx/process-inject) · [persistence-kit](https://github.com/amooryx/persistence-kit) · [edr-map](https://github.com/amooryx/edr-map) · [loot-harvest](https://github.com/amooryx/loot-harvest) · [Rev_Shell](https://github.com/amooryx/Rev_Shell) · [macro-gen](https://github.com/amooryx/macro-gen) · [hta-builder](https://github.com/amooryx/hta-builder) · [lnk-forge](https://github.com/amooryx/lnk-forge) · [iso-pack](https://github.com/amooryx/iso-pack) · [phish-planner](https://github.com/amooryx/phish-planner)
+
+**Evasion &amp; OPSEC**
+
+[amsi-check](https://github.com/amooryx/amsi-check) · [entropy-check](https://github.com/amooryx/entropy-check) · [sleep-mask](https://github.com/amooryx/sleep-mask) · [opsec-lint](https://github.com/amooryx/opsec-lint) · [script-obfuscator](https://github.com/amooryx/script-obfuscator) · [artifact-tracker](https://github.com/amooryx/artifact-tracker)
+
+**Exfiltration**
+
+[dns-exfil](https://github.com/amooryx/dns-exfil) · [icmp-tunnel](https://github.com/amooryx/icmp-tunnel) · [http-tunnel](https://github.com/amooryx/http-tunnel) · [cloud-exfil](https://github.com/amooryx/cloud-exfil) · [stego-exfil](https://github.com/amooryx/stego-exfil)
+
+**Situational Awareness**
+
+[host-recon](https://github.com/amooryx/host-recon) · [av-enum](https://github.com/amooryx/av-enum) · [token-hunter](https://github.com/amooryx/token-hunter) · [uac-audit](https://github.com/amooryx/uac-audit)
+
+**Defensive &amp; Research**
+
+[ProcSentinel](https://github.com/amooryx/ProcSentinel) · [MalwareFusionLightGBM](https://github.com/amooryx/MalwareFusionLightGBM) · [http-headers-auditor](https://github.com/amooryx/http-headers-auditor)
+
+</details>
 
 ---
 
